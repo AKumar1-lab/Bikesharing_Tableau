@@ -4,7 +4,7 @@ Module 14 NYC Citi Bike Sharing with Tableau
 
 Completed by Angela Kumar
 
-[Tableau Link for Angela Kumar](https://public.tableau.com/app/profile/angelakumar/viz/bikesharing_challenge_16331578231930/Dashboard2?publish=yes)
+[Tableau Link for Angela Kumar](https://public.tableau.com/app/profile/angelakumar/viz/bikesharing_challenge_16331578231930/NYCCitibikeProposalforDesMoinesIA#1)
 
 ### Overview
 
@@ -111,5 +111,7 @@ The weather between DesMoines and NY is very similar; temperatures were also com
 The average commute time is ~19 minutes for DesMoines, and ~41 minutes for NY.  There are more people using a car in DesMoines while NY has more people using mass transit or alternative modes.  In order to reduce the carbon footprint, DesMoines appears to benefit a bike-sharing program.
 
 It would have been nice to be able to put this information on the storyboard, and also it would be a few things that were not analyzed that should be is the cost to rent the bike and what is the unit measure(by minute, hour,etc)
+
+Recommendations for further data analysis and visualization includes the cost analysis on renting the bike for the time measurement (each unit cost per minute, or fixed time such as 20 minutes).  Also cost analysis would be for the duration traveled.  How much does it really cost to rent the bike?  Why is this mode better than other modes of mass transit?  Cost analysis on average car, bus, train, bike sharing for the same 20 minutes.  How does one determine the cost effectiveness?  Is there a return on investment, or profit gained.  
 
 This project was very interesting. I learned a lot from this experience.
